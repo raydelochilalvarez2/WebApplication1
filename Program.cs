@@ -1,5 +1,6 @@
 using WebApplication1.Datos;
 using Microsoft.EntityFrameworkCore;
+using WebApplication1;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,6 +15,7 @@ builder.Services.AddDbContext<AplicationDbContext>(
     option => {
         option.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
     });
+builder.Services.AddAutoMapper(typeof(MappingConfig));
 
 var app = builder.Build();
 

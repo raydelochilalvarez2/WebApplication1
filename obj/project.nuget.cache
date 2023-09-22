@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "m9Aqg4yb2UBMqNR7CCy4spqQx6Acq/h3hE9NCKjPyvmSLBwOCJ8T+LArE28Wd9Q1K1SAxyXG0V1PlWa3r+59nw==",
+  "dgSpecHash": "Tma9EaMHxp+48WYVjaFFnwQU8Q7UU5u4/VDMWmuOH7Cebw8J5jFLfKVTugHiEBU8bhaf/iJGammTXbGRHhCK/g==",
   "success": true,
   "projectFilePath": "C:\\Users\\raydel\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\raydel\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\raydel\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\raydel\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\raydel\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.22\\microsoft.aspnetcore.jsonpatch.6.0.22.nupkg.sha512",
     "C:\\Users\\raydel\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\6.0.22\\microsoft.aspnetcore.mvc.newtonsoftjson.6.0.22.nupkg.sha512",
